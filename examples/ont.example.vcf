@@ -1,0 +1,7 @@
+##fileformat=VCFv4.2
+##contig=<ID=chr1,length=248956422>
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Read depth">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	ONT001
+chr1	100001	.	A	G	50	PASS	.	GT:DP	0|1:36
+chr1	100201	.	T	C	48	PASS	.	GT:DP	0/1:31

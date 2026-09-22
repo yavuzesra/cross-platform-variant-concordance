@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local configuration and input metadata
+config/config.sh
+metadata/sample_pairs.tsv
+
+# Generated analysis directories
+work/
+results/
+logs/
+
+# Sequencing / genomic data
+*.bam
+*.bai
+*.cram
+*.crai
+*.bcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.vcf.gz.csi
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+*Zone.Identifier*
+.vscode/
+.idea/

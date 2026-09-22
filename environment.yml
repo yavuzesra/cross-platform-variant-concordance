@@ -1,0 +1,10 @@
+name: illumina-ont-concordance
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.11
+  - bcftools=1.19
+  - samtools=1.19.2
+  - htslib=1.19
+  - pytest

@@ -1,0 +1,3 @@
+sample_key	comparison_id	illumina_sample_id	ont_sample_id	illumina_vcf	ont_vcf	ont_alignment
+001	ILLUMINA001_vs_ONT001	ILLUMINA001	ONT001	/path/to/illumina_sample_001.vcf.gz	/path/to/ont_sample_001.vcf.gz	/path/to/ont_sample_001.cram
+002	ILLUMINA002_vs_ONT002	ILLUMINA002	ONT002	/path/to/illumina_sample_002.vcf.gz	/path/to/ont_sample_002.vcf.gz	/path/to/ont_sample_002.cram
