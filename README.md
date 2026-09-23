@@ -1,4 +1,4 @@
-# Illumina–ONT Small-Variant Concordance
+# Cross-Platform Small-Variant Concordance
 
 [![tests](https://github.com/yavuzesra/cross-platform-variant-concordance/actions/workflows/tests.yml/badge.svg)](https://github.com/yavuzesra/cross-platform-variant-concordance/actions/workflows/tests.yml)
 
