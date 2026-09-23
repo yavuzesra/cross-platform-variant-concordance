@@ -1,6 +1,6 @@
 # Illumina–ONT Small-Variant Concordance
 
-[![tests](https://github.com/yavuzesra/illumina-ont-variant-concordance/actions/workflows/tests.yml/badge.svg)](https://github.com/yavuzesra/illumina-ont-variant-concordance/actions/workflows/tests.yml)
+[![tests](https://github.com/yavuzesra/cross-platform-variant-concordance/actions/workflows/tests.yml/badge.svg)](https://github.com/yavuzesra/cross-platform-variant-concordance/actions/workflows/tests.yml)
 
 A Bash/Python workflow for comparing normalized small-variant calls from matched Illumina and Oxford Nanopore Technologies (ONT) sequencing data within a defined target region.
 
