@@ -4,7 +4,7 @@
 
 A Bash/Python workflow for comparing normalized small-variant calls from matched Illumina and Oxford Nanopore Technologies (ONT) sequencing data within a defined target region.
 
-The workflow was developed as part of the BSc thesis **“Evaluation of a Hybrid-Capture Long-Read Sequencing Workflow for Autoinflammatory Disorders.”** It was used to evaluate agreement between an existing Illumina workflow and targeted ONT sequencing for five clinical workflow-application samples.
+The workflow was developed as part of the BSc thesis **“Long-read-based diagnostic of autoinflammatory disorders.”** It was used to evaluate agreement between an existing Illumina workflow and targeted ONT sequencing for five clinical workflow-application samples.
 
 ## What the workflow measures
 
